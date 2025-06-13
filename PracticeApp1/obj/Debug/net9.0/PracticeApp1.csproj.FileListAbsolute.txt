@@ -1,0 +1,14 @@
+/Users/davemins/develop/practice-C-/PracticeApp1/bin/Debug/net9.0/PracticeApp1
+/Users/davemins/develop/practice-C-/PracticeApp1/bin/Debug/net9.0/PracticeApp1.deps.json
+/Users/davemins/develop/practice-C-/PracticeApp1/bin/Debug/net9.0/PracticeApp1.runtimeconfig.json
+/Users/davemins/develop/practice-C-/PracticeApp1/bin/Debug/net9.0/PracticeApp1.dll
+/Users/davemins/develop/practice-C-/PracticeApp1/bin/Debug/net9.0/PracticeApp1.pdb
+/Users/davemins/develop/practice-C-/PracticeApp1/obj/Debug/net9.0/PracticeApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davemins/develop/practice-C-/PracticeApp1/obj/Debug/net9.0/PracticeApp1.AssemblyInfoInputs.cache
+/Users/davemins/develop/practice-C-/PracticeApp1/obj/Debug/net9.0/PracticeApp1.AssemblyInfo.cs
+/Users/davemins/develop/practice-C-/PracticeApp1/obj/Debug/net9.0/PracticeApp1.csproj.CoreCompileInputs.cache
+/Users/davemins/develop/practice-C-/PracticeApp1/obj/Debug/net9.0/PracticeApp1.dll
+/Users/davemins/develop/practice-C-/PracticeApp1/obj/Debug/net9.0/refint/PracticeApp1.dll
+/Users/davemins/develop/practice-C-/PracticeApp1/obj/Debug/net9.0/PracticeApp1.pdb
+/Users/davemins/develop/practice-C-/PracticeApp1/obj/Debug/net9.0/PracticeApp1.genruntimeconfig.cache
+/Users/davemins/develop/practice-C-/PracticeApp1/obj/Debug/net9.0/ref/PracticeApp1.dll
