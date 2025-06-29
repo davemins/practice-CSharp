@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/davemins/develop/practice-C-/PracticeApp1/PracticeApp1.csproj",
+      "projectUniqueName": "/Users/davemins/develop/practice-CSharp/PracticeApp1/PracticeApp1.csproj",
       "projectName": "PracticeApp1",
-      "projectPath": "/Users/davemins/develop/practice-C-/PracticeApp1/PracticeApp1.csproj",
+      "projectPath": "/Users/davemins/develop/practice-CSharp/PracticeApp1/PracticeApp1.csproj",
       "packagesPath": "/Users/davemins/.nuget/packages/",
-      "outputPath": "/Users/davemins/develop/practice-C-/PracticeApp1/obj/",
+      "outputPath": "/Users/davemins/develop/practice-CSharp/PracticeApp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/davemins/.nuget/NuGet/NuGet.Config"
