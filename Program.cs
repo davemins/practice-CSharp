@@ -6,7 +6,7 @@ namespace practice_CSharp
     {
         static void Main()
         {
-            Step01_HelloWorld.Run();
+            Step02_Variables.Run();
         }
     }
 }
