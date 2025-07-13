@@ -6,7 +6,7 @@ namespace practice_CSharp
     {
         static void Main()
         {
-            Step03_ConditionsAndLoops.Run();
+            Step06_Constructors.Run();
         }
     }
 }
