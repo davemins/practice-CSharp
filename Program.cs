@@ -6,7 +6,7 @@ namespace practice_CSharp
     {
         static void Main()
         {
-            Step06_Constructors.Run();
+            Step07_Collections.Run();
         }
     }
 }
