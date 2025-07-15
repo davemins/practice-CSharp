@@ -61,7 +61,7 @@ namespace practice_CSharp
                     Console.WriteLine("\n[4. 이름으로 검색]");
                     Console.Write("키워드를 입력하세요: ");
                     string keyword = Console.ReadLine();
-                    List<Member> isContainedMembers = members.Where(m => m.Name.Contains(keyword)).ToList(); // 이것도 chatGPT 도움 받음..
+                    List<Member> isContainedMembers = members.Where(m => m.Name.Contains(keyword.ToLower())).ToList(); // 이것도 chatGPT 도움 받음..
                     foreach (var member in isContainedMembers)
                     {
                         Console.WriteLine(member.Name);
