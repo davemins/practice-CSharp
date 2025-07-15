@@ -11,11 +11,11 @@ namespace practice_CSharp
         public static void Run()
         {
 
-            Boolean repeat = true;
+            Boolean isRunning = true;
 
             List<Member> members = new List<Member>();
 
-            while (repeat == true)
+            while (isRunning)
             {
                 Console.WriteLine("==== 회원 관리 프로그램 ====");
                 Console.WriteLine("1. 회원 추가");
@@ -72,7 +72,7 @@ namespace practice_CSharp
                 {
                     Console.WriteLine("\n[0. 종료]");
                     Console.WriteLine("이용해주셔서 감사합니다.");
-                    repeat = false;
+                    isRunning = false;
                 }
                 else
                 {
