@@ -6,7 +6,7 @@ namespace practice_CSharp
     {
         static void Main()
         {
-            Step08_LINQBasic.Run();
+            StepPractice_MemberManager.Run();
         }
     }
 }
