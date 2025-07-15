@@ -49,7 +49,7 @@ namespace practice_CSharp
                 else if (choice == 3)
                 {
                     Console.WriteLine("\n[3. 성인 회원만 보기 (18세 이상)]");
-                    List<Member> adultMembers = members.Where(m => m.Age > 18).ToList(); // 이거는 chatGPT 도움 받음..
+                    List<Member> adultMembers = members.Where(m => m.Age >= 18).ToList(); // 이거는 chatGPT 도움 받음..
                     foreach (var member in adultMembers)
                     {
                         Console.WriteLine(member.Name);
